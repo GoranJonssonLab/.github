@@ -1,1 +1,2 @@
 # .github
+Organisation specific settings
